@@ -26,14 +26,6 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
 
-## Discussion
-
-Please go to our [discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions) for general questions and FAQs, **issues are for bug reports and bug reports only.** Feature requests may or may not be ignored, as [I (@spencerwooo)](https://spencerwoo.com) am the only one maintaining the project, so **I only prioritise features that I use.**
-
-*If you happen to like this project, please give it a star!* :3
-
-*If you really, really like this project, please send money! -> [Sponsors 🤑 and donations 💰](https://ovi.swo.moe/sponsor/ways)*
-
 ## Demo
 
 Live demo at [Spencer's OneDrive](https://drive.swo.moe).
@@ -132,17 +124,11 @@ Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
 
 Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, but that's free to some extent also.)
 
-## Sponsors and donations
-
-Open-source is hard! If you happen to like this project and want me to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support!
-
-[🧸 Please donate - 微信/支付宝](https://ovi.swo.moe/sponsor/ways) · [Patreon](https://www.patreon.com/spencerwoo) · [爱发电](https://afdian.net/@spencerwoo)
-
 ## License
 
 [MIT](LICENSE)
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://spencerwoo.com">spencer woo</a></em>
+  <em>made with ❤️ by <a href="https://www.linkedin.com/in/reyyanxahmed/">spencer woo</a></em>
 </div>
