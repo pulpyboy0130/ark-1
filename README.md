@@ -130,5 +130,5 @@ Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, b
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://www.linkedin.com/in/reyyanxahmed/">spencer woo</a></em>
+  <em>made with ❤️ by <a href="https://www.linkedin.com/in/reyyanxahmed/">Reyyan Ahmed</a></em>
 </div>
