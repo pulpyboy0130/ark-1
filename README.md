@@ -28,7 +28,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 ## Demo
 
-Live demo at [Spencer's OneDrive](https://drive.swo.moe).
+Live demo at [Reyyan's OneDrive](https://onedrive-index-liart-two.vercel.app/).
 
 ![demo](./public/demo.png)
 
