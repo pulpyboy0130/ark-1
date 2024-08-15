@@ -1,14 +1,11 @@
 <div align="center">
   <img src="./public/header.png" alt="onedrive-vercel-index" />
-  <h3><a href="https://drive.swo.moe">onedrive-vercel-index</a></h3>
-  <p><a href="https://ovi.swo.moe/docs/getting-started">Get started</a> · <a href="https://ovi.swo.moe/blog/whats-new">What's new?</a>
+  <h3><a href="https://1drive.ai">onedrive-vercel-index</a></h3>
   <p><em>OneDrive public directory listing, powered by Vercel and Next.js</em></p>
 
   <img src="https://img.shields.io/badge/OneDrive-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="OneDrive" />
   <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" alt="Vercel" />
-  <a href="https://ovi.swo.moe"><img src="https://img.shields.io/badge/Documentation-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABeUlEQVRIie2VwUrDQBCGZ5ZubNmS0Ba9tF6CUqTHpg+g+AhCn8R30DfpM3jRezdHoZJroaBJQ2qgsIEdD7YSsCtJVBTxP87u/t/u7M4swDcLTQNSSseyLFbERCmlPc9LCgF83z/jnE9s294vvk+AJEmesiwbe553awQEQbCXZVnY7/ebjBXa/Ju01jCbzVIA6AwGA7WN1/KT4jg+6vV6TcYYpGlKq9UKiQgAAOr1OnU6HWNKGWPQarWa8/n8GADudwIQ0UJ89QjDEKMoOiEitRm7tm37gnNuPAUiAiJa+VjNNJmIYDgcPiAiAQD4vh9tT1NG5RJdQT8PkFKak/5ZgJTyUgjxPJ1Ob4josArAeMmWZYHrulftdhvX6/X5YrEwPtFKgG63C7ApxEajga7rVvH/BZf8D/hjACJSVRpabj1su+9OgBAiiOM41VqXNtdaw3K5TIUQQT7+rjqllKec84njOAdlAEmSPCqlxqPR6O5DQA70JZ/+t+sFAb2R22dSZ7wAAAAASUVORK5CYII=" alt="Documentation" /></a>
-  <a href="https://github.com/spencerwooo/onedrive-vercel-index/discussions"><img src="https://img.shields.io/github/discussions/spencerwooo/onedrive-vercel-index?color=CF2B5B&labelColor=black&logo=github" alt="GitHub Discussions" /></a>
 </div>
 
 ## TL;DR
@@ -24,11 +21,11 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 ## Quick start
 
-🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
+🚀 Quick start: [Coming Soon].
 
 ## Demo
 
-Live demo at [Reyyan's OneDrive](https://onedrive-index-liart-two.vercel.app/).
+Live demo at [Reyyan's OneDrive](https://1drive.ai).
 
 ![demo](./public/demo.png)
 
@@ -82,7 +79,7 @@ Live demo at [Reyyan's OneDrive](https://onedrive-index-liart-two.vercel.app/).
       <td>🔎 Native Search</td>
     </tr>
     <tr>
-      <td>Password protected routes and files. <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
+      <td> Password-protected routes and files. <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
       <td>
         Compress and download multiple files or folders.
         <a href="https://ovi.swo.moe/docs/features/multi-file-folder-download">Details here</a>
@@ -102,23 +99,6 @@ Live demo at [Reyyan's OneDrive](https://onedrive-index-liart-two.vercel.app/).
 - Full dark mode support, style and website customisations ...
 
 > **Note**: This project is focused on showcasing and providing a way for others to download files from your OneDrive. Emphasis on **free** and **serverless**. If you have your own server / need WebDAV / use cloud providers other than OneDrive, checkout [alist](https://github.com/alist-org/alist).
-
-## Documentation
-
-Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
-
-- [How can I get started and deploy?](https://ovi.swo.moe/docs/getting-started)
-- [How can I configure ... ?](https://ovi.swo.moe/docs/custom-configs)
-- Where is feature ... ?
-  - [Docs - Password protected folders](https://ovi.swo.moe/docs/features/protected-folders)
-  - [Docs - Multi-file and folder download](https://ovi.swo.moe/docs/features/multi-file-folder-download)
-  - [Docs - Hosting files (images) directly](https://ovi.swo.moe/docs/features/hosting-images-directly)
-  - [Docs - Search for files and folders](https://ovi.swo.moe/docs/features/search-for-files-and-folders)
-  - [Docs - Load video subtitles](https://ovi.swo.moe/docs/features/load-video-subtitles)
-- [I deployed this before, how can I upgrade to the latest version?](https://ovi.swo.moe/docs/migration/updating-to-latest-version)
-- [I was here before 2022, how can I migrate to the new version?](https://ovi.swo.moe/docs/migration/if-you-deployed-before-2022)
-- [I got a problem during deployment ...](https://ovi.swo.moe/docs/faqs/error-on-deployment)
-- I didn't find a solution / My problem is unique? [Find help in discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions).
 
 ## Server-*less* (free)?
 
