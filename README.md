@@ -29,29 +29,16 @@ Live demo at [Reyyan's OneDrive](https://1drive.ai).
 
 ![demo](./public/demo.png)
 
+Here’s the table with the links removed:
+
 ## Features
 
 <table>
   <tbody>
     <tr>
-      <td>
-        <a
-          href="https://drive.swo.moe/Lecture%20and%20Coursework%20CS%20(BIT)/2019%20-%20%E5%A4%A7%E4%B8%89%E4%B8%8B%20-%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/n1570.pdf"
-          >👀 File preview</a
-        >
-      </td>
-      <td>
-        <a
-          href="https://drive.swo.moe/%F0%9F%8D%87%20Wallpaper"
-          >💠  List / Grid layouts</a
-        >
-      </td>
-      <td>
-        <a
-          href="https://drive.swo.moe/%F0%9F%8D%A1%20Genshin%20PV/New%20version%20PV/TGA2021%E3%80%8A%E5%8E%9F%E7%A5%9E%E3%80%8B%E5%8F%82%E9%80%89%E8%A7%86%E9%A2%91.mp4"
-          >🎥 Video and audio</a
-        >
-      </td>
+      <td>👀 File preview</td>
+      <td>💠 List / Grid layouts</td>
+      <td>🎥 Video and audio</td>
     </tr>
     <tr>
       <td>PDF, EPUB, markdown, code, plain text</td>
@@ -59,14 +46,9 @@ Live demo at [Reyyan's OneDrive](https://1drive.ai).
       <td>mp4, mp3, ..., play online or with IINA, PotPlayer ... with subtitles!</td>
     </tr>
     <tr>
-      <td>
-        <a
-          href="https://drive.swo.moe/Lecture%20and%20Coursework%20CS%20(BIT)/2017%20-%20%E5%A4%A7%E4%BA%8C%E4%B8%8A%20-%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/1%20%E7%BB%AA%E8%AE%BA.pptx"
-          >📄 Office preview</a
-        >
-      </td>
-      <td><a href="https://drive.swo.moe/%F0%9F%A5%9F%20Some%20test%20files/Articles">📝 README.md preview</a></td>
-      <td><a href="https://drive.swo.moe/%F0%9F%A5%9F%20Some%20test%20files/Imagenette">📑 Pagination</a></td>
+      <td>📄 Office preview</td>
+      <td>📝 README.md preview</td>
+      <td>📑 Pagination</td>
     </tr>
     <tr>
       <td>docx, pptx, xlsx, ...</td>
@@ -74,20 +56,14 @@ Live demo at [Reyyan's OneDrive](https://1drive.ai).
       <td>For folders with 200 or more items</td>
     </tr>
     <tr>
-      <td><a href="https://drive.swo.moe/%F0%9F%8C%9E%20Private%20folder">🔒 Protected folders</a></td>
-      <td><a href="https://drive.swo.moe/%F0%9F%8D%8A%20Weibo%20emotes/Source2">⏬ Multi-file download</a></td>
+      <td>🔒 Protected folders</td>
+      <td>⏬ Multi-file download</td>
       <td>🔎 Native Search</td>
     </tr>
     <tr>
-      <td> Password-protected routes and files. <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
-      <td>
-        Compress and download multiple files or folders.
-        <a href="https://ovi.swo.moe/docs/features/multi-file-folder-download">Details here</a>
-      </td>
-      <td>
-        Searching through your shared OneDrive files (with some caveats 🥺).
-        <a href="https://ovi.swo.moe/docs/features/search-for-files-and-folders">Details here</a>
-      </td>
+      <td>Password-protected routes and files.</td>
+      <td>Compress and download multiple files or folders.</td>
+      <td>Searching through your shared OneDrive files (with some caveats 🥺).</td>
     </tr>
   </tbody>
 </table>
